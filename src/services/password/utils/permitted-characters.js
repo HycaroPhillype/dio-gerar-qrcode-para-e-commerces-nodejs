@@ -1,5 +1,3 @@
-import permittedCharacters from "./utils/permitted-characters.js";
-
 async function permittedCharacters() {
   let permitted = [];
 
